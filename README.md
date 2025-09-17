@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hey there! 👋
+My name is Camilo Martinez Rincon. I am a software developer from the beautiful country of Colombia CO
 
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=moonlight&border=true&quote=Everybody+should+learn+to+program+a+computer+because+it+teaches+you+how+to+think.&author=Steve+Jobs" alt="Readme Quotes"/>
+  </a>
+</p>
 <!--
 **camilomartinezrincon/camilomartinezrincon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
