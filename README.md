@@ -8,9 +8,11 @@
 
 My name is Camilo Martinez Rincon. I am a software engineer with 5+ years of experience on software development, I was born and raised in the beautiful country of Colombia <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e8-1f1f4.svg" width="20" align="center"/> ☕☕, now I am based in Canada <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e8-1f1e6.svg" width="20" align="center"/>.
 
-## 💻 Technologies
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=camilomartinezrincon&theme=transparent&hide_border=true" alt="GitHub Streak"/></a>
+</p>
 
-This are some of the technologies I have used in the past 5+ years 😄
+## 💻 Technologies
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" style="padding-right:10px"/>
@@ -30,15 +32,8 @@ This are some of the technologies I have used in the past 5+ years 😄
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" style="padding-right:10px"/>
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="35" style="padding-right:10px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" style="padding-right:10px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" style="padding-right:10px"/>
 </p>
-
-<div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilomartinezrincon&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-  <br />
-  <!-- <small>Languages used in my public repos - big fan of JavaScript 😛</small> -->
-  <br />
-  <br />
-</div>
 
 <br/>
 <p align="center">
