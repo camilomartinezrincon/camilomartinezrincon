@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./img/wallpaper-img.png" alt="Banner" width="100%"/>
+</p>
+
 ## Hey there! 👋☕
 
 <p align="center">
