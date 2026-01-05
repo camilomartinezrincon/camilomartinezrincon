@@ -10,7 +10,7 @@
   </a>
 </p>
 
-My name is Camilo Martinez Rincon. I am a software engineer with 5+ years of experience on software development, I was born and raised in the beautiful country of Colombia <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e8-1f1f4.svg" width="20" align="center"/> ☕☕, now I am based in Canada <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e8-1f1e6.svg" width="20" align="center"/>.
+My name is Camilo Martinez Rincon. I am a software engineer with 5+ years of experience on software development, I was born and raised in the beautiful country of Colombia <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e8-1f1f4.svg" width="20" align="center"/> ☕☕.
 
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=camilomartinezrincon&theme=transparent&hide_border=true" alt="GitHub Streak"/></a>
